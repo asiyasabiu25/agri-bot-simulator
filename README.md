@@ -6,7 +6,7 @@ An interactive robotics simulation of an autonomous agricultural robot with real
 
 ## 🎥 Live Demo
 
-**[asiyasabiu25.github.io/agri-bot-simulator](#)**
+**[https://agri-bot-simulator-vai886w2qfb9bmntapppcr.streamlit.app/](#)**
 
 Press **START** to watch the bot autonomously navigate a field, avoid obstacles, and harvest all crops.
 
